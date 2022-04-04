@@ -1,0 +1,17 @@
+Azure:
+1. Azure Databricks: https://docs.microsoft.com/en-us/azure/databricks/
+2. Azure Data Lake Analytics: https://docs.microsoft.com/en-ca/azure/data-lake-analytics/
+3. App Service: https://docs.microsoft.com/en-ca/azure/app-service/
+4. Anomaly Detector API: https://docs.microsoft.com/en-ca/azure/cognitive-services/anomaly-detector/
+5. Azure Machine Learning: https://docs.microsoft.com/en-ca/azure/machine-learning/
+6. Azure Pipelines: https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops
+7. Azure IoT Central: https://docs.microsoft.com/en-ca/azure/iot-central/
+
+AWS:
+1. AWS Backup: https://docs.aws.amazon.com/aws-backup/?id=docs_gateway
+2. AWS Crypto Tools: https://docs.aws.amazon.com/aws-crypto-tools/?id=docs_gateway
+3. AWS Firewall Manager: https://docs.aws.amazon.com/firewall-manager/?id=docs_gateway
+4. AWS App Runner: https://docs.aws.amazon.com/apprunner/?id=docs_gateway
+5. AWS Lambda: https://docs.aws.amazon.com/lambda/?id=docs_gateway
+6. AWS Deep Learning AMIs: https://docs.aws.amazon.com/dlami/?id=docs_gateway
+7. AWS Cloud9: https://docs.aws.amazon.com/cloud9/?id=docs_gateway
