@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="agh.wggios.analizadanych.AppTest" time="0.009" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2022.1"/>
+    <property name="jna.platform.library.path" value="/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/usr/lib64:/lib64:/usr/lib:/lib:/usr/lib/x86_64-linux-gnu/libfakeroot"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/home/student/.jdks/corretto-1.8.0_332/jre/lib/amd64"/>
+    <property name="java.vm.version" value="25.332-b08"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/student/spark-maven-demo"/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="jna.loaded" value="true"/>
+    <property name="user.country" value="PL"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/student/spark-maven-demo"/>
+    <property name="java.runtime.version" value="1.8.0_332-b08"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/home/student/.jdks/corretto-1.8.0_332/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="maven.ext.class.path" value="/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/plugins/maven/lib/maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/plugins/maven/lib/maven3/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="jnidispatch.path" value="/tmp/jna--1879145925/jna8763392325245886670.tmp"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="maven.conf" value="/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/plugins/maven/lib/maven3/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="5.11.0-16-generic"/>
+    <property name="user.home" value="/home/student"/>
+    <property name="user.timezone" value="Europe/Warsaw"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="student"/>
+    <property name="java.class.path" value="/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/plugins/maven/lib/maven3/boot/plexus-classworlds-2.6.0.jar:/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/lib/idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/home/student/.jdks/corretto-1.8.0_332/jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.1 install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="pl"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_332"/>
+    <property name="java.ext.dirs" value="/home/student/.jdks/corretto-1.8.0_332/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="sun.boot.class.path" value="/home/student/.jdks/corretto-1.8.0_332/jre/lib/resources.jar:/home/student/.jdks/corretto-1.8.0_332/jre/lib/rt.jar:/home/student/.jdks/corretto-1.8.0_332/jre/lib/sunrsasign.jar:/home/student/.jdks/corretto-1.8.0_332/jre/lib/jsse.jar:/home/student/.jdks/corretto-1.8.0_332/jre/lib/jce.jar:/home/student/.jdks/corretto-1.8.0_332/jre/lib/charsets.jar:/home/student/.jdks/corretto-1.8.0_332/jre/lib/jfr.jar:/home/student/.jdks/corretto-1.8.0_332/jre/classes"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="maven.home" value="/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/plugins/maven/lib/maven3"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="agh.wggios.analizadanych.AppTest" name="testOK" time="0.009"/>
+</testsuite>
