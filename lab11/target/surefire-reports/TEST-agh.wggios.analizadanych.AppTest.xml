@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="agh.wggios.analizadanych.AppTest" time="0.009" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="agh.wggios.analizadanych.AppTest" time="0.005" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.1"/>
     <property name="jna.platform.library.path" value="/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/usr/lib64:/lib64:/usr/lib:/lib:/usr/lib/x86_64-linux-gnu/libfakeroot"/>
@@ -31,7 +31,7 @@
     <property name="maven.ext.class.path" value="/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/plugins/maven/lib/maven-event-listener.jar"/>
     <property name="classworlds.conf" value="/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/plugins/maven/lib/maven3/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="jnidispatch.path" value="/tmp/jna--1879145925/jna8763392325245886670.tmp"/>
+    <property name="jnidispatch.path" value="/tmp/jna--1879145925/jna1260020903553009290.tmp"/>
     <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
     <property name="maven.conf" value="/home/student/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5080.210/plugins/maven/lib/maven3/conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -65,5 +65,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="agh.wggios.analizadanych.AppTest" name="testOK" time="0.009"/>
+  <testcase classname="agh.wggios.analizadanych.AppTest" name="testOK" time="0.005"/>
 </testsuite>
